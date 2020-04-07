@@ -4,7 +4,7 @@
 #
 Name     : qt5ct
 Version  : 0.41
-Release  : 1
+Release  : 2
 URL      : https://sourceforge.net/projects/qt5ct/files/qt5ct-0.41.tar.bz2
 Source0  : https://sourceforge.net/projects/qt5ct/files/qt5ct-0.41.tar.bz2
 Summary  : No detailed summary available
